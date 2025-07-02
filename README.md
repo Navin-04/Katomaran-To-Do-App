@@ -1,3 +1,7 @@
+#“This project is a part of a hackathon run by https://www.katomaran.com ”
+
+
+
 # TaskFlow - Frontend Showcase
 
 A beautiful, modern task management application built with React, TypeScript, and Tailwind CSS. This is a frontend showcase version with mock data that demonstrates all the features and UI/UX design.
