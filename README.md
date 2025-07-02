@@ -1,5 +1,7 @@
 #“This project is a part of a hackathon run by https://www.katomaran.com ”
 
+#link --- https://fanciful-heliotrope-ea1af3.netlify.app
+
 
 
 # TaskFlow - Frontend Showcase
@@ -140,10 +142,6 @@ When connecting to a real backend:
 - Implement push notifications
 - Add team management and permissions
 
-## 📄 License
 
-MIT License - feel free to use this project as a template for your own applications.
 
----
 
-Built with ❤️ using React, TypeScript, and Tailwind CSS
